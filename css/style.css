@@ -1,0 +1,20 @@
+html {
+    background-color: chocolate;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-shadow: rgb(0, 0, 0) 0 5px 5px;;
+    color: rgb(240, 240, 240);;
+    text-align: center;
+    padding: 5%;
+}
+
+p {
+    color: rgb(240, 240, 240);
+    text-align: center;
+    padding: 1%;
+    font-size: 1.5rem;
+    text-shadow: rgb(0, 0, 0) 0 5px 5px;;
+}
