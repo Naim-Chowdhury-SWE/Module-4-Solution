@@ -18,3 +18,9 @@ p {
     font-size: 1.5rem;
     text-shadow: rgb(0, 0, 0) 0 5px 5px;;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
